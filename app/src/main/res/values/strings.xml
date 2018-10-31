@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">What\'s For Dinner?</string>
+    <string name="meals">Meals</string>
+    <string name="recipes">Recipes</string>
+    <string name="groceries">Groceries</string>
+    <string name="add">Add</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="directions">Directions</string>
+    <string name="temp">Temporary String</string>
+    <string name="pick_ingredient">Ingredient</string>
+    <string name="ingredient_count">Count</string>
+    <string name="choose_a_recipe">Choose A Recipe On The Left</string>
+</resources>
